@@ -1,0 +1,11 @@
+{
+    "name": "com.ks.beataim.modding.halloween.dependencies",
+    "version": "1.0.0",
+    "displayName": "BeatAim Halloween Dependencies",
+    "description": "BeatAim Halloween Dependencies",
+    "unity": "2020.1",
+    "author": {
+        "name": "Kamil Szurant",
+        "url": "https://github.com/kamyker/BeatAim-Halloween-Dependencies"
+    }
+}
