@@ -12,6 +12,8 @@ public class AlwaysGenerateUVs : AssetPostprocessor
 		if ( modelImporter != null )
 		{
 			modelImporter.generateSecondaryUV = true;
+			modelImporter.secondaryUVMarginMethod = ModelImporterSecondaryUVMarginMethod.Calculate;
+			modelImporter.secondaryUVMinLightmapResolution = 30;
 		}
 	}
 }
