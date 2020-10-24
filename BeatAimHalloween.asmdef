@@ -1,6 +1,9 @@
 {
     "name": "BeatAimHalloween",
-    "references": [],
+    "references": [
+        "Unity.Addressables",
+        "Unity.Addressables.Editor"
+    ],
     "includePlatforms": [
         "Editor"
     ],
